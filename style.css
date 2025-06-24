@@ -87,3 +87,9 @@ body {
       right: 0;
     }
   }
+  main {
+    width: 50%;
+   text-align: center;
+    margin: 200px auto;
+    
+  }
